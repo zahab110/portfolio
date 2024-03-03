@@ -269,29 +269,32 @@ section{
 }
 
 .about .skills .progress .bar:nth-child(1) h3{
-   width:65%;
+   width:95%;
 }
 
 .about .skills .progress .bar:nth-child(2) h3{
-   width: 55%;
+   width: 50%;
 }
 
 .about .skills .progress .bar:nth-child(3) h3{
-   width: 65%;
+   width: 60%;
 }
 
 .about .skills .progress .bar:nth-child(4) h3{
-   width: 75%;
+   width: 70%;
 }
 .about .skills .progress .bar:nth-child(5) h3{
    width: 40%;
 }
 
 .about .skills .progress .bar:nth-child(6) h3{
-   width: 75%;
+   width: 40%;
 }
 
 .about .skills .progress .bar:nth-child(7) h3{
+   width: 70%;
+}
+.about .skills .progress .bar:nth-child(8) h3{
    width: 70%;
 }
 
@@ -390,6 +393,21 @@ section{
    width: 100%;
    object-fit: cover;
 }
+
+.portfolio .box-container .box-i img{
+   height: 30rem;
+   width: 100%;
+}
+.portfolio .box-container .box-i h3{
+   margin:1rem 0;
+   font-size: 2rem;
+   font-weight: normal;
+}
+.portfolio .box-container .box-i span{
+   font-size: 1.7rem;
+}
+
+
 
 .portfolio .box-container .box h3{
    margin:1rem 0;
